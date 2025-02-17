@@ -66,5 +66,3 @@ function logGlobalVar() {
   console.log(d); // Output should be: 40
 }
 logGlobalVar();
-
-// ---------------------------------------------- //
